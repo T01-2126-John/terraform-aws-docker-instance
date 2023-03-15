@@ -17,7 +17,7 @@ variable "tag" {
     default = "Docker-Instance"  
 }
 
-variable "server_name" {
+variable "server-name" {
     type = string
     default = "docker-instance"  
 }
